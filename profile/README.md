@@ -7,24 +7,26 @@
 <h1 align="center">CRoME Lab</h1>
 
 <p align="center">
-  Collaborative Research on MEdication use and family health<br>
+  Collaborative Research On MEdication use &amp; family health<br>
   University of Kentucky College of Pharmacy
 </p>
 
 <p align="center">
   <a href="https://cromelababraham.com">Website</a> ·
-  <a href="https://pharmacy.uky.edu/crome/crome-lab-publications">Publications</a> ·
-  <a href="https://pharmacy.uky.edu/crome/crome-team">Team</a> ·
+  <a href="https://cromelababraham.com/publications">Publications</a> ·
+  <a href="https://cromelababraham.com/team">Team</a> ·
+  <a href="https://cromelababraham.com/research">Research in Action</a> ·
+  <a href="https://cromelababraham.com/news">News</a> ·
   <a href="https://cromelababraham.com/contact">Contact</a>
 </p>
 
 ---
 
-We develop, test, and share novel methods for improving medication safety and
-health behaviors for at-risk populations. Our work combines serious games,
-community-engaged research, and health services research, and it is built
-around collaboration with families, patients, clinicians, and community
-partners.
+We develop, implement, and disseminate novel methods for improving medication
+safety and health behaviors for vulnerable and underserved populations, while
+training the next generation of researchers. Our work is community-engaged,
+collaborative, and transdisciplinary, and it is built around partnership with
+families, patients, clinicians, and community stakeholders.
 
 ## Why this organization exists
 
@@ -55,6 +57,12 @@ papers can see how the results were produced.
 | [analysis-template](https://github.com/crome-lab/analysis-template) | Starting point for a new research or analysis project |
 | [project-template](https://github.com/crome-lab/project-template) | Starting point for a new game or application |
 
+## Research cores
+
+Medication and vaping safety interventions · Game-based learning ·
+Culturally-centered complementary and alternative medicine (C-CAM) ·
+Cancer education and literacy · Cystic fibrosis and medication management
+
 ## Our projects
 
 | Project | Focus |
@@ -69,15 +77,25 @@ papers can see how the results were produced.
 | [SleepSMA℞T](https://cromelababraham.com/sleep) | Sleep hygiene and safe use of sleep medications |
 | [MovingiSMA℞T](https://cromelababraham.com/movingsmart) | Health and wellbeing through culturally meaningful movement |
 
+## Community programs
+
+| Program | About |
+| --- | --- |
+| [Moving is Medicine](https://cromelababraham.com/mim) | Community physical activity and health promotion |
+| [Wonders of Pharmacy](https://cromelababraham.com/wonders) | Introducing high school students to the pharmacy profession |
+| [Media and Resources](https://cromelababraham.com/resource) | Educational materials from across our projects |
+
 ## For new lab members
 
 Start with [lab-onboarding](https://github.com/crome-lab/lab-onboarding). It
 covers how to get access, how to start a project, and the ground rules for
-working with our data.
+working with our data. If you are interested in joining, see
+[research opportunities](https://cromelababraham.com/opportunities).
 
 ## Contact
 
 CRoME Lab, University of Kentucky College of Pharmacy
 Room 292, Lee T. Todd, Jr. Building, 789 S Limestone, Lexington, KY 40508
 
+Phone: (859) 323-7601
 <crome.lab@uky.edu>
